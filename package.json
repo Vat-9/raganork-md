@@ -44,6 +44,6 @@
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.0",
     "string-crypto": "2.0.2",
-    "youtubei.js": "^9.1.0"
+    "youtubei.js": "^11.0.1"
   }
 }
